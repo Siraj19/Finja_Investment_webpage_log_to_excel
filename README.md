@@ -8,7 +8,8 @@ This is a project that I initially created for my father to help him tracking hi
 * Copy paste that source page text to a text file and place that file in a folder where this main.py is placed. 
 * Make sure you don't have any other text file in that folder and text file shouldn't be more than one
 * Now just run "run.bat"
-* If everything goes perfect, It would have successfully made the excel file and everything in that excel file.
+* If everything goes perfect, It would have successfully made the excel file and everything in that excel file like below and your text file would get empty which means work is done.
+* ![image](https://user-images.githubusercontent.com/51836387/152220383-83720739-d028-4265-a940-1ffdf27c6a42.png)
 
 **To know more what it does? Open up the code and each line is explained and you can cross verify from the online documentation for specific libraries.
 Most importantly your machine should be running Python and should have required libraries.**
